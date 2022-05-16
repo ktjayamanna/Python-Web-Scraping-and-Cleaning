@@ -1,0 +1,9 @@
+#Requirements
+Python==3.7.10
+truecase==0.0.12
+pycld2==0.41
+Scrapy==2.5.0
+regex==2.2.1
+json==2.0.9
+hashlib==20081119
+DateTime==4.3
